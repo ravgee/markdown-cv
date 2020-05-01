@@ -7,6 +7,7 @@ Data Specialist
 
 <div id="webaddress">
 <a href="ravgee@gmail.com">ravgee@gmail.com</a>
+  <a href="https://www.linkedin.com/in/russellgee/">linkedin</a>
 </div>
 
 
